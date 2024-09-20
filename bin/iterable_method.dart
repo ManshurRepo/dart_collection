@@ -1,0 +1,8 @@
+void main() {
+  final numbers = [1, 2, 3, 4, 5, 6, 7, 8];
+
+  print(numbers.first);
+  print(numbers.last);
+  print(numbers.isEmpty);
+  print(numbers.isNotEmpty);
+}
